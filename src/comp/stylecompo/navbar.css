@@ -1,0 +1,9 @@
+*{
+margin: 0px;
+padding:  0px;
+}
+ul{
+    background-color: #4a4a4a;
+    padding: 10px;
+    color: darkgray;
+}

@@ -1,0 +1,10 @@
+#tableuser {
+  border: 1px solid rgb(0, 0, 0);
+  width: 461px;
+  height: 200px;
+}
+#userMain {
+  width: 550px;
+  float: right;
+  margin-top: 66px;
+}

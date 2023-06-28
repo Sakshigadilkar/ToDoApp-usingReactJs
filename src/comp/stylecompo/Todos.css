@@ -1,0 +1,41 @@
+.headTODOS {
+  display: flex;
+  width: 650px;
+  margin: 60px 0px 0px 60px;
+}
+.headtitle {
+    margin: 0px 25px;
+    padding-right: 620px;
+}
+.mainbox {
+    /* display: flex; */
+    margin: 4px 0px 0px 82px;
+    /* border: 5px solid aquamarine; */
+    width: 650px;
+}
+.title {
+  padding: 0px 55px;
+  margin-top: 15px;
+}
+table {
+    border: 2px solid forestgreen;
+    width: 850px;
+    height: 200px;
+  }
+    
+  th {
+    border-bottom: 1px solid black;
+  }
+    
+  td {
+    text-align: center;
+  }
+  #id{
+    margin-left: 620px;
+  }
+  #main{
+    width: 100%; overflow: hidden;
+  }
+  #right{
+    width: 600px; float: left;
+  }
